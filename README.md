@@ -25,9 +25,6 @@
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 <!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 2.20 % as on ⏰ 9-1-2021.
-
 ---
 
 ### 😜Here's a Joke for you:
