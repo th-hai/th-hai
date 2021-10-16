@@ -19,8 +19,8 @@
 
 ---
 ### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=thanhhai1999&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhai1999&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=th-hai&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th-hai&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
