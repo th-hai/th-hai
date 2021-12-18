@@ -1,7 +1,7 @@
 # 👋  Hi, I'm Thanh Hai from :vietnam:
 
 ### 🤵 About Me:
-- 🏦 I'm a developer from Vietnam  
+- 🏦 Software developer from Vietnam  
 - 💻 I use daily **.javascript**, **.vuejs**, **.typescript**
 - 🌱 I’m currently learning Nest.js and Vue.js
 - 💬 Talk to me about technology
