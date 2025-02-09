@@ -1,12 +1,10 @@
 # 👋  Hi, I'm Thanh Hai from :vietnam:
 
 ### 🤵 About Me:
-- 🏦 Software developer from Vietnam  
-- 💻 I use daily **.javascript**, **.vuejs**, **.typescript**
-- 🌱 I’m currently learning Nest.js and Vue.js
+- 🏦 Software Engineer from Vietnam  
+- 🌱 Currently exploring AI, new technologies, and cloud services
 - 💬 Talk to me about technology
-- 👯 We can connect to play some games
-- ⚡ Fun fact: Je connais un peu le français
+- 🎮 We can connect to play some games
 
 # 🔭 Languages and Tools:
 
@@ -16,16 +14,3 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
----
-### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=th-hai&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th-hai&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-<!--END_SECTION:waka-->
----
-
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
